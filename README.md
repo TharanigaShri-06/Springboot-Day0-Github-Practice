@@ -26,3 +26,7 @@ This is a simple project created to learn and practice Git and GitHub commands.
 
 ## 👨‍💻 Author
 Learning Git and GitHub for practice
+
+
+
+Operations performed.
